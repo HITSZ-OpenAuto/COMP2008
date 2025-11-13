@@ -1,0 +1,172 @@
+ID: "COMP2008"
+SimilarID: []
+Name: "计算机组成原理"
+CourseProperty:
+  - Major:
+      - Year: "2019_2020"
+        Name: ["计算机", "null"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大一"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "COMP2008"
+    CourseName: "计算机组成原理"
+    Credit: "4.0"
+    CourseHour: "64.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "实验"
+        Percentage: "20"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "64"
+  - Major:
+      - Year: "2020_2021"
+        Name: ["计算机", "计算机（第二学位）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大一"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "COMP2008"
+    CourseName: "计算机组成原理"
+    Credit: "4.0"
+    CourseHour: "64.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "实验"
+        Percentage: "20"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "64"
+  - Major:
+      - Year: "2021_2022"
+        Name: ["计算机"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大一"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "COMP2008"
+    CourseName: "计算机组成原理"
+    Credit: "4.0"
+    CourseHour: "64.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "实验"
+        Percentage: "20"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "64"
+  - Major:
+      - Year: "2022_2023"
+        Name: ["计算机", "智能强基班"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大一"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "COMP2008"
+    CourseName: "计算机组成原理"
+    Credit: "4.0"
+    CourseHour: "64.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "实验"
+        Percentage: "20"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "64"
+  - Major:
+      - Year: "2023_2024"
+        Name: ["计算机"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大一"
+        Semester: "春"
+    CourseType: "限选"
+    CourseID: "COMP2008"
+    CourseName: "计算机组成原理"
+    Credit: "3.5"
+    CourseHour: "56.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: "大二春季学期的限选（四选一）"
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "实验"
+        Percentage: "20"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "56"
+  - Major:
+      - Year: "2024_2025"
+        Name: ["工科试验班（计算机与电子通信）", "计算机（第二学士学位）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大一"
+        Semester: "春"
+    CourseType: "限选"
+    CourseID: "COMP2008"
+    CourseName: "计算机组成原理"
+    Credit: "3.5"
+    CourseHour: "56.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: "大二春季学期的限选（四选一）"
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "实验"
+        Percentage: "20"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "56"
