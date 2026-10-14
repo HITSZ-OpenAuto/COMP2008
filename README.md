@@ -1,11 +1,5 @@
 # COMP2008 - 计算机组成原理
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
-![实验20%](https://img.shields.io/badge/实验-20%25-wheat)
-![期末考试70%](https://img.shields.io/badge/期末考试-70%25-wheat)
 
 2023 级本门课程作为大二春季学期的限选（四选一）而改为考察课，学分调整为 3.5（原为 4 学分）。
 自 2019 级开始换用新教材（唐朔飞版），但指令部分参考了新教材，整体教学内容涵盖 RISC-V。
