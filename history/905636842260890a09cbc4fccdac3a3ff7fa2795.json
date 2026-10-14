@@ -1,0 +1,392 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814645,
+    "hash": "f18be473e6a51f51783493366603cd2299e111a1"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754197840,
+    "hash": "d7d37ff11a0ee0fefe17c3b10334a070cef692c1"
+  },
+  "README.md": {
+    "size": 8789,
+    "time": 1791961479,
+    "hash": "905636842260890a09cbc4fccdac3a3ff7fa2795"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754197840,
+    "hash": "d7d37ff11a0ee0fefe17c3b10334a070cef692c1"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754197840,
+    "hash": "d7d37ff11a0ee0fefe17c3b10334a070cef692c1"
+  },
+  "exams/2018级计算机组成原理期末试题_WuuTang.pdf": {
+    "size": 4483691,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "exams/2019级计算机组成原理补考试题_回忆版.pdf": {
+    "size": 321265,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "exams/2025春哈工深计算机组成原理试题.pdf": {
+    "size": 107497,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754197840,
+    "hash": "d7d37ff11a0ee0fefe17c3b10334a070cef692c1"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754197840,
+    "hash": "d7d37ff11a0ee0fefe17c3b10334a070cef692c1"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200304095946244.png": {
+    "size": 85682,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200304121948325.png": {
+    "size": 34366,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200304122052042.png": {
+    "size": 104118,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200304122108315.png": {
+    "size": 89271,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200305004915235.png": {
+    "size": 66104,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200306085509841.png": {
+    "size": 79626,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200313072357076.png": {
+    "size": 85209,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200316015609909.png": {
+    "size": 124616,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200330231501083.png": {
+    "size": 66281,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200330231535717.png": {
+    "size": 74405,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200402210034502.png": {
+    "size": 15184,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200403203355155.png": {
+    "size": 132095,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200409120454280.png": {
+    "size": 81839,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200409120723845.png": {
+    "size": 75121,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200413201658112.png": {
+    "size": 39420,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200415012615399.png": {
+    "size": 25695,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200415013428050.png": {
+    "size": 21857,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200429183914916.png": {
+    "size": 74068,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200429193613911.png": {
+    "size": 63269,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200429194059951.png": {
+    "size": 46635,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200429194340350.png": {
+    "size": 41332,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200429195754488.png": {
+    "size": 56948,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200504211304647.png": {
+    "size": 54598,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200504211446257.png": {
+    "size": 50225,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200504215245737.png": {
+    "size": 51883,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200506175218051.png": {
+    "size": 121662,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200507114821901.png": {
+    "size": 53996,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200507171852696.png": {
+    "size": 65267,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200507184251773.png": {
+    "size": 79543,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508143020541.png": {
+    "size": 52726,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508143041816.png": {
+    "size": 52719,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508144121180.png": {
+    "size": 55382,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508200405866.png": {
+    "size": 100369,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508200746639.png": {
+    "size": 97203,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508200837159.png": {
+    "size": 79340,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508201120644.png": {
+    "size": 103728,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508201423058.png": {
+    "size": 77233,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508202306819.png": {
+    "size": 107989,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508202435628.png": {
+    "size": 69359,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508204845256.png": {
+    "size": 19758,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508205029467.png": {
+    "size": 30180,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508205149241.png": {
+    "size": 44708,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508205557854.png": {
+    "size": 45185,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508205644002.png": {
+    "size": 47830,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508205804007.png": {
+    "size": 65455,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508205829140.png": {
+    "size": 76797,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508232704279.png": {
+    "size": 73977,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200508233250032.png": {
+    "size": 94571,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.assets/image-20200618193256067.png": {
+    "size": 197497,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2020_JarrettYe/计算机组成原理Note.md": {
+    "size": 77489,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2021_hewei/三种乘法的比较.md": {
+    "size": 2963,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2021_xyfJASON/0 绪论.pdf": {
+    "size": 821935,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2021_xyfJASON/1 算术运算·数的表示及定点运算.pdf": {
+    "size": 9791962,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2021_xyfJASON/1 算术运算·浮点数的表示及运算.pdf": {
+    "size": 5541976,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2021_xyfJASON/2 系统总线.pdf": {
+    "size": 2967959,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2021_xyfJASON/3 存储器·主存储器.pdf": {
+    "size": 5882829,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2021_xyfJASON/3 存储器·虚拟存储器.pdf": {
+    "size": 2851510,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2021_xyfJASON/3 存储器·高速缓冲存储器.pdf": {
+    "size": 1098305,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2021_xyfJASON/4 输入输出系统.pdf": {
+    "size": 5272540,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2021_xyfJASON/5 RISC-V指令特点.pdf": {
+    "size": 302778,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2021_xyfJASON/6 处理器.pdf": {
+    "size": 4458693,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2022_MaxFan/21级考试比较简单，一堆作业题": {
+    "size": 0,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2022_MaxFan/习题指导速通指南.pdf": {
+    "size": 2576293,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2022_MaxFan/复习提纲/存储器.pdf": {
+    "size": 10448841,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2022_MaxFan/复习提纲/概论、汇编与计算.pdf": {
+    "size": 12595740,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "notes/2022_max-wzm/README.md": {
+    "size": 117,
+    "time": 1756826335,
+    "hash": "fc80b99c58f34b11ffd199eb67ad2c3318b97181"
+  },
+  "readme.toml": {
+    "size": 8867,
+    "time": 1784774708,
+    "hash": "315e5bd5594d332e160be48102437f965fbfe244"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754197840,
+    "hash": "d7d37ff11a0ee0fefe17c3b10334a070cef692c1"
+  }
+}
